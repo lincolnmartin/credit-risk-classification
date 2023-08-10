@@ -6,9 +6,9 @@ Analysis Overview
 
 Factors observed:
 
-- the size of the loan
+- loan size
 - interest rate
-- debt to income ratio- borrower's income
+- debt to income ratio of borrower's income
 - number of accounts the borrower held
 - marks against the borrower
 - total debt
