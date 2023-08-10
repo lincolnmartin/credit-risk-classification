@@ -4,7 +4,7 @@ In this assignment, we use machine learning to analyze a dataset of credit lendi
 
 Analysis Overview
 
-Factors considered:
+Factors observed:
 
 - the size of the loan
 - interest rate
