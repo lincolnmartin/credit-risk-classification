@@ -10,7 +10,7 @@ Factors observed:
 - interest rate
 - debt to income ratio of borrower's income
 - number of accounts the borrower held
-- marks against the borrower
+- negative marks against the borrower
 - total debt
 
 Results
